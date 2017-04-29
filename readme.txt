@@ -1,1 +1,3 @@
 unko.edu
+uuko
+uunko
